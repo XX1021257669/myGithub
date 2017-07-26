@@ -9,6 +9,7 @@
 			Hello hello = new Hello();
 			String name = hello.getString("傻强");
 			System.out.println("名字:"+name);
+			System.out.println("年龄永远18");
 		}
 
 		public String getString(String name){
