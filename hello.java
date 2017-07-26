@@ -4,6 +4,7 @@
 	
 		public static void main(String [] args){
 		
+
 			System.out.println("Hello World");
 			Hello hello = new Hello();
 			String name = hello.getString("傻强");
@@ -12,6 +13,7 @@
 
 		public String getString(String name){
 			return name;
+			System.out.println("我是Hub");
 		}
 	
 	}
