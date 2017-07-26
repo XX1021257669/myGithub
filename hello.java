@@ -14,6 +14,7 @@
 		public String getString(String name){
 			return name;
 			System.out.println("我是Hub");
+			System.out.println("我是WT大神");
 		}
 	
 	}
